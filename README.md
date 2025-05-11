@@ -1,7 +1,3 @@
-Here's a **clean and professional GitHub README** version of the content you provided, formatted using Markdown and tailored for GitHub standards:
-
----
-
 # 📦 TeraDL - Terabox Video Downloader & Online Player
 
 Welcome to **TeraDL**, the ultimate solution to **download, watch, and convert Terabox videos online** — fast, free, and without ads.
