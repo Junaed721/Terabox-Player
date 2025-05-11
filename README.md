@@ -1,50 +1,65 @@
-🚀 Introduction
+Here's a **clean and professional GitHub README** version of the content you provided, formatted using Markdown and tailored for GitHub standards:
 
-Welcome to TeraDL – your all-in-one solution for downloading and playing Terabox videos online. With our powerful tool, you can instantly watch, embed, and download Terabox videos — all from one place. No ads. No limits. Just seamless access to your favorite content.
-🔑 Key Features
-✅ Easy Terabox Video Downloads
+---
 
-Download videos from Terabox in seconds. Our 100% working Terabox downloader acts as a direct download service, giving you instant access to your files.
-🎬 Smooth Online Playback
+# 📦 TeraDL - Terabox Video Downloader & Online Player
 
-Enjoy high-quality streaming through our Terabox online player. No buffering, no interruptions — just smooth playback.
-🧭 User-Friendly Interface
-
-Whether you need a Terabox downloader online or a Terabox link converter, our clean and intuitive platform makes everything quick and easy.
-📌 How to Use
-
-    Visit our platform: teraplay.me
+Welcome to **TeraDL**, the ultimate solution to **download, watch, and convert Terabox videos online** — fast, free, and without ads.
 
 
-Our tool automatically converts Terabox links into downloadable files, so you can access Terabox direct videos or Terabox direct files without hassle.
-💡 Why Choose TeraDL?
-🔒 Reliable & Trusted
+---
 
-Thousands of users trust our platform daily. TeraDL simplifies Terabox link bypassing, so you can focus on what matters—your content.
-⚡ Blazing-Fast Downloads
+## 🚀 Features
 
-Whether you're using our Terabox video downloader or our online player, you’ll enjoy fast speeds and optimized performance.
-💬 Dedicated Support
+* ✅ **Direct Terabox Downloads**
+  Download videos directly from Terabox with one click. Our tool is a 100% working Terabox downloader.
 
-Facing an issue? Our expert team is always ready to help with Terabox download, link conversion, or bypass issues.
-🎉 Join the TeraDL Community
+* 🎬 **Online Terabox Player**
+  Watch Terabox videos instantly using our smooth, high-quality online player.
 
-Join thousands of Terabox fans who use our service daily to download and watch their favorite videos — fast, free, and without ads.
+* 🔗 **Link Converter**
+  Convert Terabox links into downloadable video files — no complicated steps needed.
 
-🔗 Website: https://www.teraplay.me
-📈 SEO Optimization Details
+* 🧭 **User-Friendly Interface**
+  Clean, simple, and responsive interface that works on all modern browsers.
 
-Primary Keywords Used:
-terabox, terabox downloader, terabox direct download, terabox player, terabox online downloader, terabox mod apk, terabox link converter, terabox link bypass, terabox premium, terabox mod apk unlocked, terabox cloud storage, free 5TB unlimited cloud storage, google drive unlimited storage free, unlimited cloud storage lifetime free, how to remove ads from terabox, and more.
+---
 
-Additional Features for SEO:
+## 🔧 How to Use
 
-    ✅ Internal linking to main site & Telegram bot
+ Visit our site: [**https://www.teraplay.me**](https://www.teraplay.me)
 
-    ✅ Clear structure with headings and bullet points
+---
 
-    ✅ Strong call to action (CTA)
+## 💡 Why Use TeraDL?
 
-    ✅ Meta description implied through intro
+* **Trusted by thousands** of users globally
+* Supports **Terabox link bypassing** for direct access
+* **Fast download speeds** and seamless video playback
+* Constant updates and active support
 
-    ✅ Includes "unlimited cloud storage" keywords
+---
+
+## 📲 Join the Community
+
+Start downloading your favorite videos with ease. No registration. No ads. Just fast, free access.
+
+* 🌐 Website: [https://www.teraplay.me](https://www.teraplay.me)
+
+---
+
+## 🔍 SEO Keywords (For Dev Reference)
+
+```
+terabox, terabox downloader, terabox direct download, terabox player,
+terabox online player, terabox video download, terabox mod apk,
+unlimited cloud storage, free 5TB cloud storage, terabox premium,
+terabox bypass, terabox link converter, terabox mod apk unlocked
+```
+
+---
+
+## 📄 License
+
+This project is licensed under the [MIT License](LICENSE).
+
