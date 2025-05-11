@@ -1,4 +1,4 @@
-# 📦 TeraDL - Terabox Video Downloader & Online Player
+# 📦 Terabox Online Player & Video Downloader
 
 Welcome to **TeraDL**, the ultimate solution to **download, watch, and convert Terabox videos online** — fast, free, and without ads.
 
